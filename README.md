@@ -7,4 +7,12 @@ brute.py - bruteforcer script
 Read.py - read section 8 or specific section with keys as argument
 Write.py - write bytes
 
-https://www.instructables.com/RFID-RC522-Raspberry-Pi/
+Tutorial:
+- https://www.instructables.com/RFID-RC522-Raspberry-Pi/
+
+<br>
+Python packages:
+- https://github.com/mxgxw/MFRC522-python/
+- https://github.com/matamorphosis/MFRC522RFIDPyAuthKeyBruteforcer
+
+
